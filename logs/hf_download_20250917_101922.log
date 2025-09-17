@@ -1,0 +1,7 @@
+2025-09-17 10:19:22,747 - INFO - Log file: /Users/xyl/Documents/git_src/index-tts/logs/hf_download_20250917_101922.log
+2025-09-17 10:19:22,765 - INFO - Platform: macOS-15.5-arm64-arm-64bit
+2025-09-17 10:19:22,765 - INFO - Python: 3.10.18
+2025-09-17 10:19:22,765 - WARNING - No HF token provided; public models only
+2025-09-17 10:19:22,766 - INFO - Planned jobs: IndexTeam/IndexTTS-2
+2025-09-17 10:19:22,766 - INFO - Initial free space: 99.81 GB
+2025-09-17 10:19:22,766 - INFO - Dry run complete. Exiting without download.
